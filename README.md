@@ -1,2 +1,0 @@
-# MasterCardAssessmentPP
-Coding Assessment
